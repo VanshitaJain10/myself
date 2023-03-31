@@ -209,20 +209,19 @@ a:hover {
 	}
 	.bottom-cloud {
 		left: 30px;
-		width:55px;
+		width: 55px;
 		bottom: 20px;
 	}
 	.top-cloud {
 		right: 30px;
-		width:55px;
+		width: 55px;
 		top: 20px;
 	}
 	h1 {
 		font-size: 3rem;
 		padding-top: 100px;
-		
 	}
-	.laptop{
-		width:30%
+	.laptop {
+		width: 30%;
 	}
 }
